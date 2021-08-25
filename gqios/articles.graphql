@@ -1,0 +1,7 @@
+query Article {
+
+  article {
+    title,
+    content
+  }
+}
